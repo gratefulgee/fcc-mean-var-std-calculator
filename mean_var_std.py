@@ -15,6 +15,4 @@ def calculate(input_list):
         'sum': [list(np.sum(matrix, axis=0)), list(np.sum(matrix, axis=1)), np.sum(matrix)]
     }
 
-    return calculationsgit remote remove origin
-git remote add origin https://github.com/gratefulgee/fcc-mean-var-std-calculator.git
-git push -u origin main
+    return calculations
